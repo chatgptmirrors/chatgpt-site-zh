@@ -74,6 +74,13 @@ ChatGPT 中文版 是OpenAI开发的ChatGPT模型的中文优化版本，专为�
 ### 需要特殊网络吗？
 
 - 不需要，国内网络直接访问，电脑、手机都可以访问使用。
+
+### ChatGPT中文版模型该如何选择？
+从下图中就可以看出，**ChatGPT中文版**各个模型的综合能力排名
+![ChatGPT各模型综合能力排名](https://github.com/user-attachments/assets/6f31007d-2277-4fe7-bdf3-b11ef24ebb0b)
+
+建议使用o1模型或者4o模型，不建议选择3.5和4.0模型进行对话
+
 ## 七、其他大模型推荐
 以下是几个全球领先的大模型网站（访问需翻墙）
 1. OpenAI [https://chat.openai.com](https://chat.openai.com/)
